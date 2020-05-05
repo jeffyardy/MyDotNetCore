@@ -1,0 +1,9 @@
+D:\JeffSoft\DesignPatternsPrac\EmployeePortal\Logger\bin\Debug\netcoreapp3.1\Logger.deps.json
+D:\JeffSoft\DesignPatternsPrac\EmployeePortal\Logger\bin\Debug\netcoreapp3.1\Logger.dll
+D:\JeffSoft\DesignPatternsPrac\EmployeePortal\Logger\bin\Debug\netcoreapp3.1\Logger.pdb
+D:\JeffSoft\DesignPatternsPrac\EmployeePortal\Logger\obj\Debug\netcoreapp3.1\Logger.csprojAssemblyReference.cache
+D:\JeffSoft\DesignPatternsPrac\EmployeePortal\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfoInputs.cache
+D:\JeffSoft\DesignPatternsPrac\EmployeePortal\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfo.cs
+D:\JeffSoft\DesignPatternsPrac\EmployeePortal\Logger\obj\Debug\netcoreapp3.1\Logger.dll
+D:\JeffSoft\DesignPatternsPrac\EmployeePortal\Logger\obj\Debug\netcoreapp3.1\Logger.pdb
+D:\JeffSoft\DesignPatternsPrac\EmployeePortal\Logger\obj\Debug\netcoreapp3.1\Logger.csproj.CoreCompileInputs.cache
