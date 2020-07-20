@@ -9,7 +9,7 @@ namespace Logger
     public sealed class Log : ILog
     {
         private static readonly Lazy<Log> instance = new Lazy<Log>(() => new Log());
-
+        string myValue = "";
         private Log()
         {
         }
